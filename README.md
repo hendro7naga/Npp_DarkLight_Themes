@@ -6,4 +6,4 @@ This theme used additional font family [Droid Sans Mono](http://www.fontsquirrel
 ###Language Support :
 * html
 
-(https://sites.google.com/site/hendrosng22/readme.jpg?attredirects=0)
+![Image of DarkLight](https://sites.google.com/site/hendrosng22/readme.jpg?attredirects=0)
