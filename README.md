@@ -8,3 +8,4 @@ This theme used additional font family [Droid Sans Mono](http://www.fontsquirrel
 
 ### Language Support
 * HTML
+* JAVA
